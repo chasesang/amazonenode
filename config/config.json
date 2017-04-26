@@ -1,0 +1,20 @@
+{
+  "development": {
+
+    "database": "amazon_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+
+    "database": "amazon_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+
+    "database": "amazon_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
